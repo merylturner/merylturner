@@ -1,5 +1,5 @@
 ## Hey! I'm Meryl ✍︎
-##### ☞ Pronouns: She/Her\
+##### ☞ Pronouns: She/Her
 > I'm a Software Engineer + Graphic Designer born and raised in Portland, Oregon. When I'm not coding, you can find me drawing custom typography, exploring the Pacific Northwest or just hanging out with my bluetick beagle and chocolate lab.
 ---
 
@@ -11,6 +11,6 @@
 #### Ask me about my [side hustle](https://madebymeryl.com)
 #### Get In Touch
 ☞ [Twitter](https://twitter.com/madebymeryl)\
-☞ [Instagram](https://www.instagram.com/madebymeryl/?hl=en)\
+☞ [Instagram](https://www.instagram.com/madebymeryl/?hl=en)
 
 
