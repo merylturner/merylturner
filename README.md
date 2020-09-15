@@ -15,5 +15,5 @@
 ☞ [Instagram](https://www.instagram.com/madebymeryl/?hl=en)
 
 
-![merylturner's github stats](https://github-readme-stats.vercel.app/api?username=merylturner&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merylturner&langs_count=8&layout=compact)
+![merylturner's github stats](https://github-readme-stats.vercel.app/api?username=merylturner&show_icons=true&theme=cobalt)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merylturner&langs_count=8&layout=compact&theme=cobalt)
