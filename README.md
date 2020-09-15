@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey! I'm Meryl ✍︎
+##### ☞ Pronouns: She/Her\
+> I'm a Software Engineer + Graphic Designer born and raised in Portland, Oregon. When I'm not coding, you can find me drawing custom typography, exploring the Pacific Northwest or just hanging out with my bluetick beagle and chocolate lab.
+---
 
-<!--
-**merylturner/merylturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☞ I’m currently working on changing technology in the healthcare industry \
+☞ I’m currently learning more and more React, and some Python :snake:\
+☞ I’m searching for good resources on leveling up your programming skills (intermediate > advanced level resources)\
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Ask me about my [side hustle](https://madebymeryl.com)
+#### Get In Touch
+☞ [Twitter](https://twitter.com/madebymeryl)\
+☞ [Instagram](https://www.instagram.com/madebymeryl/?hl=en)\
+
+
