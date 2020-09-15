@@ -14,4 +14,4 @@
 ☞ [Instagram](https://www.instagram.com/madebymeryl/?hl=en)
 
 
-[![merylturner's github stats](https://github-readme-stats.vercel.app/api?username=merylturner)](https://github.com/anuraghazra/github-readme-stats)
+![merylturner's github stats](https://github-readme-stats.vercel.app/api?username=merylturner&show_icons=true&theme=cobalt)
